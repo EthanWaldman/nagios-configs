@@ -1,0 +1,1 @@
+local Nagios configuration files
